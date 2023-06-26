@@ -1,0 +1,15 @@
+D:\projectsNetCore\diccionarios-csharp\bin\Debug\net7.0\diccionarios-csharp.exe
+D:\projectsNetCore\diccionarios-csharp\bin\Debug\net7.0\diccionarios-csharp.deps.json
+D:\projectsNetCore\diccionarios-csharp\bin\Debug\net7.0\diccionarios-csharp.runtimeconfig.json
+D:\projectsNetCore\diccionarios-csharp\bin\Debug\net7.0\diccionarios-csharp.dll
+D:\projectsNetCore\diccionarios-csharp\bin\Debug\net7.0\diccionarios-csharp.pdb
+D:\projectsNetCore\diccionarios-csharp\obj\Debug\net7.0\diccionarios-csharp.csproj.AssemblyReference.cache
+D:\projectsNetCore\diccionarios-csharp\obj\Debug\net7.0\diccionarios-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsNetCore\diccionarios-csharp\obj\Debug\net7.0\diccionarios-csharp.AssemblyInfoInputs.cache
+D:\projectsNetCore\diccionarios-csharp\obj\Debug\net7.0\diccionarios-csharp.AssemblyInfo.cs
+D:\projectsNetCore\diccionarios-csharp\obj\Debug\net7.0\diccionarios-csharp.csproj.CoreCompileInputs.cache
+D:\projectsNetCore\diccionarios-csharp\obj\Debug\net7.0\diccionarios-csharp.dll
+D:\projectsNetCore\diccionarios-csharp\obj\Debug\net7.0\refint\diccionarios-csharp.dll
+D:\projectsNetCore\diccionarios-csharp\obj\Debug\net7.0\diccionarios-csharp.pdb
+D:\projectsNetCore\diccionarios-csharp\obj\Debug\net7.0\diccionarios-csharp.genruntimeconfig.cache
+D:\projectsNetCore\diccionarios-csharp\obj\Debug\net7.0\ref\diccionarios-csharp.dll
